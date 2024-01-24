@@ -33,4 +33,4 @@ def skills(skill):
     return str_candit
 
 
-app.run(debug=True)
+app.run()
